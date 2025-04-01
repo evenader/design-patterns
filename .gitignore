@@ -1,0 +1,9 @@
+# JetBrains IDE 相关文件
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 特定文件
+workspace.xml
+tasks.xml
